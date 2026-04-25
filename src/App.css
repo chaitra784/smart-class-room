@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+}
+
+.container {
+  padding: 20px;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+}
+
+button {
+  margin: 5px;
+  padding: 8px;
+  background: #007bff;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}

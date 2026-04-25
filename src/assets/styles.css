@@ -1,0 +1,35 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: #333;
+  padding: 10px;
+}
+
+nav a {
+  color: blueviolet;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+h2 {
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 8px;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 8px 15px;
+  background: blue;
+  color:red;
+  border: none;
+}
